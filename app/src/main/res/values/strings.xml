@@ -3,4 +3,6 @@
     <string name="user_name">User Name</string>
     <string name="user_password">Password</string>
     <string name="sign_in">Sign in</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
 </resources>
